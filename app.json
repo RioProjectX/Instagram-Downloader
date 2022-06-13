@@ -1,0 +1,21 @@
+{
+"name": "Instagram downloader",
+  "description": "Telegram instagram downloader",
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "repository": "https://github.com/rioprojectx/instagram-downloader",
+  "env": {
+    "token": {
+      "description": "Bot token kamu",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "stack": "heroku-20"
+}
