@@ -1,0 +1,19 @@
+{
+  "name": "telegrafu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@phaticusthiccy/open-apis": "^1.7.0",
+    "telegraf": "^4.7.0",
+    "path": "^0.12.7",
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
